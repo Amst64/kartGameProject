@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9368c70916c74a49aff2d479f2462f1, type: 3}
+  m_Name: obsatcle
+  m_EditorClassIdentifier: 
+  vertices:
+  - point: {x: 0, y: 0}
+    normal: {x: -0.7071, y: -0.7071}
+    Us: 0
+  - point: {x: 0, y: 0}
+    normal: {x: 0, y: -1}
+    Us: 0
+  - point: {x: 5, y: 0}
+    normal: {x: 0, y: -1}
+    Us: 0
+  - point: {x: 5, y: 0}
+    normal: {x: 0.7071, y: -0.7071}
+    Us: 0
+  - point: {x: 10, y: 5}
+    normal: {x: 0.7071, y: -0.7071}
+    Us: 0
+  - point: {x: 10, y: 5}
+    normal: {x: 1, y: 0}
+    Us: 0
+  - point: {x: 10, y: 10}
+    normal: {x: 1, y: 0}
+    Us: 0
+  - point: {x: 10, y: 10}
+    normal: {x: 0.7071, y: 0.7071}
+    Us: 0
+  - point: {x: 5, y: 15}
+    normal: {x: 0.7071, y: 0.7071}
+    Us: 0
+  - point: {x: 5, y: 15}
+    normal: {x: 0, y: 1}
+    Us: 0
+  - point: {x: 0, y: 15}
+    normal: {x: 0, y: 1}
+    Us: 0
+  - point: {x: 0, y: 15}
+    normal: {x: -0.7071, y: 0.7071}
+    Us: 0
+  - point: {x: -5, y: 10}
+    normal: {x: -0.7071, y: 0.7071}
+    Us: 0
+  - point: {x: -5, y: 10}
+    normal: {x: -1, y: 0}
+    Us: 0
+  - point: {x: -5, y: 5}
+    normal: {x: -1, y: 0}
+    Us: 0
+  lineIndices: 0e000000000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
