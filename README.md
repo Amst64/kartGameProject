@@ -1,2 +1,2 @@
 # kartGameProject
-A repository for Kart Game Project
+A repository for Kart Game Project (Unity)
